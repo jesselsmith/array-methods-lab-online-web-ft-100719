@@ -16,7 +16,7 @@ end
 
 def using_last(array)
   array.last
-ends
+end
 
 def using_size(array)
   array.size
